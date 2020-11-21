@@ -1,0 +1,50 @@
+
+<a href= "C:/Users/DELL/Desktop/Final/paginas/introduccion.html">
+<img src= "C:/Users/DELL/Desktop/Final/menu/Introduccion.png.png"></a>
+
+<a href= "C:/Users/DELL/Desktop/Final/paginas/desarrollo.html">
+<img src="C:/Users/DELL/Desktop/Final/menu/desarrollo.png"></a>
+
+<a href= "C:/Users/DELL/Desktop/Final/paginas/conclusion.html">
+<img src="C:/Users/DELL/Desktop/Final/menu/Conclusion.png"></a>
+
+<a href= "C:/Users/DELL/Desktop/Final/paginas/referencias.html">
+<img src="https://github.com/mikeyrobert1/ProyectoATI/blob/main/menu/referencias.png"></a>
+
+<a href= "C:/Users/DELL/Desktop/Final/paginas/infografia.html">
+<img src="C:/Users/DELL/Desktop/Final/menu/infografia.png"></a>
+
+ 
+
+
+
+<center><table border = "1" width= "70%" bgcolor="#fff7db">
+<tr>
+<td colspan="2"><center><font face "verdana"><h1>Presentacion
+</h1></font></center></td>
+
+<tr/>
+<tr>
+<td><p>Hola!, este es el trabajo realizado por el equipo N°3 de mecatronica.</p>
+<p>Los integrantes de este equipo son:</p>
+<>-Miguel Roberto Gutierrez Arreola (2077904)</p>
+<>-Tadeo Juarez Monsivas (1960058)</p>
+<>-Montserrat Juarez Montiel (1955598)</p>
+<>-Armando Lopez Vera (1946032)</p>
+<>-Julio Cesar Maravillas Pichardo (2077780)</p>
+<>-Ana Luisa Martinez Grimaldo (1903174)</p> </body></td>
+<td>2</td>
+
+</tr>
+</table></center>
+
+
+
+
+
+
+
+
+</td></tr></table></center>
+</head>
+</html>
